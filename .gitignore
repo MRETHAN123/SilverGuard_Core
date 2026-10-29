@@ -1,0 +1,6 @@
+# Keep the directly editable, potentially secret-bearing config local.
+config.py
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
